@@ -30,6 +30,8 @@ The goal was to simulate real-world identity governance practices including role
 ## [Actions Taken](/IAM_Steps_Screenshots_Explanations.pdf)
 📄 **Note:** GitHub may not render this PDF inline. Click **Download** to view the full step-by-step walkthrough with screenshots.
 ---
+![Process Overview](/Process.png)
+
 # Security Controls Implemented
 ---
 
