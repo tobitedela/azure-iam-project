@@ -27,17 +27,10 @@ The goal was to simulate real-world identity governance practices including role
 
 ---
 
-# Environment Setup
-
-* Microsoft Azure Portal
-* Microsoft Entra ID (formerly Azure AD)
-* Default Directory Tenant
-* Global Administrator privileges (lab environment)
-
+## [Actions Taken](/IAM_Steps_Screenshots_Explanations.pdf)
+📄 **Note:** GitHub may not render this PDF inline. Click **Download** to view the full step-by-step walkthrough with screenshots.
 ---
-
 # Security Controls Implemented
-
 ---
 
 ## 1️⃣ Identity Provisioning & Role-Based Access Control (RBAC)
